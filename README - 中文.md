@@ -25,9 +25,9 @@
 cmake ./
 make
 ```
-即可编译该工程。
-生成文件路径：/CutVideoIntoImages/bin
-生成库文件路径：/CutVideoIntoImages/lib
+即可编译该工程。<br>
+生成文件路径：**/CutVideoIntoImages/bin**<br>
+生成库文件路径：**/CutVideoIntoImages/lib**<br>
 
 ## 3. 工程使用说明
 设根目录为 CutVideoIntoImages，且已经按照上述过程成功的构建了项目，则可执行文件 CutVideoIntoImages 的位置应该在 /CutVideoIntoImages/bin 中。我们以提供的两个测试视频为例，测试视频放在根目录的 Test Video 路径中，该路径下的 video_list.txt 是一个视频文件列表。
