@@ -26,9 +26,9 @@ Open a Terminal and Enter in the Root Path of this project named *CutVideoIntoIm
 cmake ./
 make
 ```
-Then you will build this project.
-The path of Binary Files : **/CutVideoIntoImages/bin**
-The path of Library Files : **/CutVideoIntoImages/lib**
+Then you will build this project.<br>
+The path of Binary Files : **/CutVideoIntoImages/bin**  <br>
+The path of Library Files : **/CutVideoIntoImages/lib**  <br>
 
 ## 3. Introduction of Using this Project
 If the Root Path is *CutVideoIntoImages*, and you have Built this Project like Tutorial Above, then the Execute File's Location should be in */CutVideoIntoImages/bin*. So there is a Example for a Test, and Test Videos put in *Test_Videos* based on Root Path, and there is a file Named *video_list.txt* which is a List of Video Files.
